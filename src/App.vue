@@ -155,11 +155,11 @@ const checkAnswers = () => {
 
 .card {
   padding: 0 25px;
-  margin-top: 0;
+  margin-top: -30px;
 }
 
 .card:last-child {
-  margin: 60px 0;
+  margin: 50px 0;
 }
 
 /* Algorithm Steps */
